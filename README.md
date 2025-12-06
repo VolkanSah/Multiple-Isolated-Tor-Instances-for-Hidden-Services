@@ -82,6 +82,7 @@ HiddenServiceDir /var/lib/tor/instances/hidden_service_1/hidden_service/
 HiddenServicePort 80 127.0.0.1:9000
 Log notice syslog # for dev!
 # Log notice file /dev/null  # for production
+```
 
 **`/etc/tor/instances/hidden_service_2/torrc`**:
 

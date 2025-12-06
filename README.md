@@ -77,10 +77,11 @@ DataDirectory /var/lib/tor/instances/hidden_service_1
 PidFile /run/tor/instances/hidden_service_1/hidden_service_1.pid
 SocksPort 0
 ExitRelay 0
+ControlPort 0
 HiddenServiceDir /var/lib/tor/instances/hidden_service_1/hidden_service/
 HiddenServicePort 80 127.0.0.1:9000
-Log notice syslog
-```
+Log notice syslog # for dev!
+# Log notice file /dev/null  # for production
 
 **`/etc/tor/instances/hidden_service_2/torrc`**:
 
@@ -90,9 +91,11 @@ DataDirectory /var/lib/tor/instances/hidden_service_2
 PidFile /run/tor/instances/hidden_service_2/hidden_service_2.pid
 SocksPort 0
 ExitRelay 0
+ControlPort 0
 HiddenServiceDir /var/lib/tor/instances/hidden_service_2/hidden_service/
 HiddenServicePort 80 127.0.0.1:9001
-Log notice syslog
+Log notice syslog # for dev!
+# Log notice file /dev/null   # for production
 ```
 
 ### 4. Set Permissions

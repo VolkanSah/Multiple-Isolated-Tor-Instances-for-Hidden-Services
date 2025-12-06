@@ -1,5 +1,5 @@
 # Multiple Isolated Tor Instances for Hidden Services
-###### Update: 10.07.2025
+###### Update: 06.12.2025
 ![Tor Logo](https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg)
 
 Tor is awesome — but let’s be real: sometimes it drives you *absolutely insane*.  

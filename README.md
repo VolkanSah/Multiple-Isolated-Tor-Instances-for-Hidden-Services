@@ -43,7 +43,7 @@ because the one-`torrc`-to-rule-them-all method is fine, until it’s not.
 
 ## Prerequisites
 
-- Tor installed (`sudo apt install tor`)
+- Tor installed (`e.g. sudo apt install tor`)
 - Apache2 (LAMP) installed and running
 - Basic Linux command-line knowledge
 - Secure your Server befor, or pay me!

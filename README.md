@@ -51,12 +51,9 @@ because the one-`torrc`-to-rule-them-all method is fine, until it’s not.
 
 ## Setup Instructions
 
-### 1. Install Tor
+##### 1. Install Tor! On your system
 
-```bash
-sudo apt update
-sudo apt install tor
-````
+
 
 ### 2. Create Config & Data Directories
 

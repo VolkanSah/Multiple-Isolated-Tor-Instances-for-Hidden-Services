@@ -515,5 +515,7 @@ MIT License — see LICENSE file.
 
 ---
 
-**Credits:** - Readme.md Powered by Batman’s grind and ChatGPT wizardry. 🦇🔥
+**Credits:** 
+- [VolkanSah](https://github.com/volkansah)
+- [NCF](https://github.com/NemesisCyberForce?)
 

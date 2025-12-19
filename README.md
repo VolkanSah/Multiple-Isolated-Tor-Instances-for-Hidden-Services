@@ -1,6 +1,6 @@
 # Multiple Tor Instances for Hidden Services/Tunnels
+###### Basics
 
-![Screenshot](more_onions.jpg)
 ###### Image K.I generated
 
 Run multiple Tor instances with different configuration files (torrc) to host different hidden services/tunnels on the same machine. This setup is particularly useful when working with tools like SoCat for offensive security purposes.

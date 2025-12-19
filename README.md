@@ -523,4 +523,5 @@ MIT License — see LICENSE file.
 **Credits:** 
 - [VolkanSah](https://github.com/volkansah)
 - [NCF](https://github.com/NemesisCyberForce?)
+- Readme.md translated with help of AI from turkish
 

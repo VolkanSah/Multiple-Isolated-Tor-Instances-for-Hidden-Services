@@ -5,9 +5,9 @@
 
 Tor is awesome — but let’s be real: sometimes it drives you *absolutely insane*.
 
-So instead of jamming all your hidden services into one massive `torrc` file and hoping for the best, we go the clean route:
-
-🛠️ **One instance per service. Separate configs. Isolated processes.** Each with its own data, control, and behavior.
+> So instead of jamming all your hidden services into one massive `torrc` file and hoping for the best, we go the clean route:
+>
+> 🛠️ **One instance per service. Separate configs. Isolated processes.** Each with its own data, control, and behavior.
 
 ## Why is this better?
 

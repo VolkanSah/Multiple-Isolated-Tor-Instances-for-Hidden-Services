@@ -1,8 +1,9 @@
 # Multiple Isolated Tor Instances for Hidden Services
-###### with TOR Hardening 
+[![Tor Network](https://img.shields.io/badge/Anonymity-Tor-7D4698?logo=tor-project)](https://www.torproject.org/)  [![Tor Network](https://img.shields.io/badge/Hardening-Tor-7D4698?logo=tor-project)](https://www.torproject.org/)
+
 [![Ethical Security](https://img.shields.io/badge/Focus-Ethical_Security-000000?style=for-the-badge&logo=code-climate)]() 
 
-[![Tor Network](https://img.shields.io/badge/Anonymity-Tor-7D4698?logo=tor-project)](https://www.torproject.org/)  [![Tor Network](https://img.shields.io/badge/Hardening-Tor-7D4698?logo=tor-project)](https://www.torproject.org/)
+
 
 
 ###### Update: 19.12.2025

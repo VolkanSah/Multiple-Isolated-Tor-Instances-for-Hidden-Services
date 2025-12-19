@@ -1,5 +1,5 @@
 # Multiple Isolated Tor Instances for Hidden Services
-###### with TOR Hardening
+###### with TOR Hardening (test)
 
 ###### Update: 19.12.2025
 
@@ -23,7 +23,24 @@ because the one-`torrc`-to-rule-them-all method is fine, until it’s not.
 > Build it like a Batmobile: fast, stealthy, unstoppable.
 
 ## Table of Contents
-
+1. [Prerequisites](#prerequisites)
+2. [Setup Instructions](#setup-instructions)
+   - [Install Tor](#install-tor)
+   - [Create Config & Data Directories](#create-config--data-directories)
+   - [Write Tor Config Files](#write-tor-config-files)
+   - [Set Permissions](#set-permissions)
+   - [Create Systemd Service Files](#create-systemd-service-files)
+   - [Enable and Start Services](#enable-and-start-services)
+   - [Verify Services](#verify-services)
+   - [.onion Addresses](#onion-addresses)
+3. [Apache VirtualHosts](#apache-virtualhosts)
+4. [Advanced Security & Scripts](#advanced-security--scripts)
+5. [Troubleshooting](#troubleshooting)
+6. [Performance Tuning](#performance-tuning)
+7. [Cleanup & Reset](#cleanup--reset)
+8. [Ethical Use](#ethical-use)
+9. [Support](#support)
+10. [License](#license)
 
 
 ## Prerequisites

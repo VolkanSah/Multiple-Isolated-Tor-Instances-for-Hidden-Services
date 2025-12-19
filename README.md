@@ -1,4 +1,5 @@
 # Multiple Isolated Tor Instances for Hidden Services
+###### with TOR Hardening
 
 ###### Update: 19.12.2025
 

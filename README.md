@@ -115,8 +115,8 @@ sudo chown -R debian-tor:debian-tor /run/tor/instances
 
 ### 5. Create Systemd Service Files
 
-**`/etc/systemd/system/tor@hidden_service_1.service`**
-**`/etc/systemd/system/tor@hidden_service_2.service`**
+1. **`/etc/systemd/system/tor@hidden_service_1.service`**
+2. **`/etc/systemd/system/tor@hidden_service_2.service`**
 
 ```ini
 [Unit]

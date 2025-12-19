@@ -29,7 +29,7 @@ because the one-`torrc`-to-rule-them-all method is fine, until it’s not.
 ## Prerequisites
 
 * Tor installed (`e.g.recommend debian// sudo apt install tor`)
-* Apache2 (LAMP) installed and running
+* Apache2 (LAMP) installed and running (if you know the power of apache you will love it)
 * Basic Linux command-line knowledge
 * Secure your Server befor, or pay me!
 

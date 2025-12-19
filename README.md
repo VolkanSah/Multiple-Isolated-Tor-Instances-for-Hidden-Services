@@ -1,6 +1,6 @@
 # Multiple Isolated Tor Instances for Hidden Services
 
-###### Update: 06.12.2025
+###### Update: 19.12.2025
 
 Tor is awesome — but let’s be real: sometimes it drives you *absolutely insane*.
 
